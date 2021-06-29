@@ -1,11 +1,12 @@
-<Window x:Class="DXGrid_RowDoubleClick.MainWindow"
+﻿<Window x:Class="RowDoubleClick_CodeBehind.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525" xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
-        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors">
-    
+        xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid" 
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+        xmlns:local="clr-namespace:RowDoubleClick_CodeBehind"
+        Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <dxg:GridControl Name="grid" Control.MouseDoubleClick="grid_MouseDoubleClick">
+        <dxg:GridControl x:Name="grid">
             <dxg:GridControl.Columns>
                 <dxg:GridColumn FieldName="ProductName">
                     <dxg:GridColumn.EditSettings>
@@ -19,7 +20,7 @@
                 </dxg:GridColumn>
             </dxg:GridControl.Columns>
             <dxg:GridControl.View>
-                <dxg:TableView Name="tView" />
+                <dxg:TableView RowDoubleClick="OnRowDoubleClick"/>
             </dxg:GridControl.View>
         </dxg:GridControl>
     </Grid>
