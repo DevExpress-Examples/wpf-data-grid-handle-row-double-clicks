@@ -4,7 +4,7 @@
 * [MainWindow.xaml](./CS/RowDoubleClick_CodeBehind/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RowDoubleClick_CodeBehind/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/RowDoubleClick_CodeBehind/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/RowDoubleClick_CodeBehind/MainWindow.xaml.vb))
 <!-- default file list end -->
-# How to Handle Row Double Clicks
+# How to Handle Row Double-сlicks
 
 This example demonstrates how to use the [TableView.RowDoubleClick](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TableView.RowDoubleClick) event to process double-clicks.
 
