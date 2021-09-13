@@ -25,4 +25,4 @@ This example demonstrates how to use the [TableView.RowDoubleClick](https://docs
 
 ## More Examples
 
-- [How to Handle a Double-click on a Grid Row in a MVVM Application](https://github.com/DevExpress-Examples/how-to-handle-a-double-click-on-a-grid-row-in-a-mvvm-application-e2458)
+- [How to Handle Row Double-clicks in a MVVM Application](https://github.com/DevExpress-Examples/how-to-handle-a-double-click-on-a-grid-row-in-a-mvvm-application-e2458)
