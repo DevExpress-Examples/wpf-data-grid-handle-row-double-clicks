@@ -28,7 +28,7 @@ This example demonstrates how to use the [TableView.RowDoubleClick](https://docs
 
 - [How to Handle Row Double-clicks in a MVVM Application](https://github.com/DevExpress-Examples/how-to-handle-a-double-click-on-a-grid-row-in-a-mvvm-application-e2458)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-handle-row-double-clicks&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-handle-row-double-clicks&~~~was_helpful=no)
 
